@@ -76,11 +76,11 @@ export default function HalamanProduk() {
             fontFamily: 'serif', 
             letterSpacing: '0.5px' 
           }}>
-            Koleksi Produk Tarumaya
+            Selamat Berbelanja Tumbers
           </h1>
           <div style={{ width: '40px', height: '2px', background: '#C6A75E', margin: '0 auto 12px auto' }}></div>
           <p style={{ color: '#555', margin: 0, fontSize: 'clamp(12px, 3.5vw, 14px)', padding: '0 10px' }}>
-            Silakan pilih kategori produk kerajinan kulit asli yang Anda cari
+            Silakan pilih produk yang anda cari
           </p>
         </div>
 
